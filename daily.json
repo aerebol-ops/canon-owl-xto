@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-13",
+  "week": 18,
+  "day": 2,
+  "topicWeek": 7,
+  "displayWeek": 9,
+  "cycle": 2,
+  "rotation": {
+    "week": 9,
+    "host": "RAY",
+    "topic": "Hot Work",
+    "marker": "Thu Oct 16 — 60-day check at the roundtable"
+  },
+  "openingMessage": "No one's ever drowned in sweat.",
+  "openingAttribution": "Bear Bryant",
+  "openingWhy": "Nobody in this field ever got hurt by the second gas test, the extra walk-around, or the re-check that turned out to be unnecessary. That side of the ledger has no casualties. Every name on the other side of it saved himself a little effort.",
+  "formCounts": [
+    {
+      "name": "Jeremy Norris",
+      "count": 17
+    },
+    {
+      "name": "Jordan Lemmons",
+      "count": 17
+    },
+    {
+      "name": "Christian Lee",
+      "count": 16
+    },
+    {
+      "name": "Michael Jobe",
+      "count": 16
+    },
+    {
+      "name": "Gael Antonio Avila",
+      "count": 15
+    },
+    {
+      "name": "Justin Fontenot",
+      "count": 15
+    },
+    {
+      "name": "Rolando Flores",
+      "count": 15
+    },
+    {
+      "name": "Jacob Hernandez",
+      "count": 14
+    },
+    {
+      "name": "Nathan Contreras",
+      "count": 13
+    },
+    {
+      "name": "Hayden Haugh",
+      "count": 12
+    },
+    {
+      "name": "Stefanie Kirschke",
+      "count": 12
+    },
+    {
+      "name": "Alejandro Najar",
+      "count": 11
+    },
+    {
+      "name": "Jose Hurtado",
+      "count": 11
+    },
+    {
+      "name": "Pablo Soto",
+      "count": 11
+    },
+    {
+      "name": "Jerry Gonzales",
+      "count": 10
+    },
+    {
+      "name": "Luis Zarate",
+      "count": 10
+    },
+    {
+      "name": "Ralph Forbes",
+      "count": 10
+    },
+    {
+      "name": "Ruben Rojo",
+      "count": 10
+    },
+    {
+      "name": "Anthony Scott",
+      "count": 8
+    },
+    {
+      "name": "Brian Medlin",
+      "count": 8
+    },
+    {
+      "name": "Dermont Morgan",
+      "count": 7
+    },
+    {
+      "name": "Raymundo Solis",
+      "count": 7
+    },
+    {
+      "name": "Robert Henigan",
+      "count": 7
+    },
+    {
+      "name": "Andrew Bailey",
+      "count": 6
+    },
+    {
+      "name": "Baldemar Bracamontes",
+      "count": 6
+    },
+    {
+      "name": "Bryan Medlin",
+      "count": 5
+    },
+    {
+      "name": "Jimmy White",
+      "count": 5
+    },
+    {
+      "name": "Alexander Clubb",
+      "count": 4
+    },
+    {
+      "name": "Caleb Smith",
+      "count": 4
+    },
+    {
+      "name": "Jose Campos",
+      "count": 4
+    },
+    {
+      "name": "Dawson Drake",
+      "count": 3
+    },
+    {
+      "name": "William Jimmy Cooper",
+      "count": 3
+    },
+    {
+      "name": "Trevor Mckenzie",
+      "count": 2
+    },
+    {
+      "name": "Humberto Marquez-Salazar",
+      "count": 1
+    },
+    {
+      "name": "Joseph Popillion",
+      "count": 1
+    },
+    {
+      "name": "Joshua Blassingame",
+      "count": 1
+    },
+    {
+      "name": "Kelby Hammer Training",
+      "count": 1
+    },
+    {
+      "name": "Larry Jaramillo",
+      "count": 1
+    }
+  ],
+  "leadershipThought": "Breaking containment is where small mistakes turn into big consequences. Preparation, awareness, and discipline to stop work keep people safe.",
+  "yesterdaysJobs": {
+    "date": "2026-10-09",
+    "label": "Friday, October 9",
+    "count": 5,
+    "flags": 1,
+    "groups": [
+      {
+        "category": "AGT",
+        "jobs": [
+          {
+            "well": "GUITAR SOUTH 4-7 4213H",
+            "jobType": "Air Job",
+            "crew": "Jeremy Norris / Trevor Mckenzie 1099",
+            "cm": "Foreman_East Ops 5",
+            "note": "A disconnection of a stack and flow from the WH to set it up to be turned i",
+            "flag": false
+          },
+          {
+            "well": "Weyman 23A #7",
+            "jobType": "Air Job",
+            "crew": "Caleb Smith / Baldemar Bracomontes 1099",
+            "cm": "Foreman_East Ops 6",
+            "note": "Crane and roustabout crew made their exclusion zones clear and all necessar",
+            "flag": false
+          },
+          {
+            "well": "Weyman 23A #2",
+            "jobType": "Air Job",
+            "crew": "Raymundo Solis / Gael \"Antonio\" Avila 1099",
+            "cm": "Foreman_East Ops 6",
+            "note": "Discussion of exclusion zones around the crane and when the crane is in ope",
+            "flag": false
+          },
+          {
+            "well": "Powell 34 3",
+            "jobType": "Air Job",
+            "crew": "Nathan Contreras / Rolando Flores 1099",
+            "cm": "",
+            "note": "The crew conducted a safety meeting before starting work to review the LSRA",
+            "flag": false
+          },
+          {
+            "well": "Weyman 23A #1",
+            "jobType": "Air Job",
+            "crew": "Raymundo Solis / Gael \"Antonio\" Avila 1099",
+            "cm": "Foreman_East Ops 6",
+            "note": "Unsafe conditions was a big topic for this job, cellar was full of water so",
+            "flag": true
+          }
+        ]
+      }
+    ]
+  },
+  "opsDate": "2026-07-22",
+  "opsContent": "<strong>Active Jobs (2026-07-22):</strong><br>No active jobs captured.<br><strong>Carry-Forward:</strong><br>None noted.",
+  "lessonsLearned": null,
+  "exxonMoments": "<strong>Pretty essay and quick meeting with all the info needed it to get the job d</strong> <span style='font-size:12px;color:#888;font-style:italic;'>[Raymundo Solis / Gael \"Antonio\" Avila 1099]</span> <span style='font-size:12px;color:#666;'>(Operational Discipline)</span><br><span style='font-size:13px;'>Everything and great communication with all the people in location.</span><br><br><strong>We had pipeline workers near us on the same pad, company rep asked us to se</strong> <span style='font-size:12px;color:#888;font-style:italic;'>[Caleb Smith / Baldemar Bracomontes 1099]</span> <span style='font-size:12px;color:#666;'>(Operational Discipline)</span><br><span style='font-size:13px;'>All crew members were active and attentive on location while work was being performed.</span><br><br><strong>Hold point was done for every task, closed off entrance with cones for our</strong> <span style='font-size:12px;color:#888;font-style:italic;'>[Raymundo Solis / Justin Fontenot 1099]</span> <span style='font-size:12px;color:#666;'>(Operational Discipline)</span><br><span style='font-size:13px;'>Better communication about other hazards outside the job scope.</span><br><br><strong>Everyone working safely to complete task</strong> <span style='font-size:12px;color:#888;font-style:italic;'>[Jacob Hernandez / Humberto Salazar]</span> <span style='font-size:12px;color:#666;'>(Operational Discipline)</span><br><span style='font-size:13px;'>Verify conditions, brief all personnel, and leave the location better than you found it.</span><br><br><strong>Good communication by everyone involved</strong> <span style='font-size:12px;color:#666;'>(Operational Discipline)</span><br><span style='font-size:13px;'>Verify conditions, brief all personnel, and leave the location better than you found it.</span>",
+  "fieldNews": [
+    {
+      "type": "good",
+      "headline": "Nathan Contreras / Tyrell Sanders — Verify conditions, brief all personnel, and leave the location better than you f",
+      "detail": "OWL form — Operational Discipline",
+      "psms": "Operational Discipline",
+      "level": null
+    },
+    {
+      "type": "good",
+      "headline": "Jacob Hernandez / Rolando Flores 1099 — The crew maintained communication, followed PPE requirements, and continued",
+      "detail": "Continue reinforcing LSRA reviews, proper PPE use, and continuous atmospheric monitoring to maintain a safe work environment throughout all phases of the job.",
+      "psms": "Atmospheric Monitoring",
+      "level": null
+    },
+    {
+      "type": "good",
+      "headline": "Nathan Contreras / Rolando Flores 1099 — The crew conducted a safety meeting before starting work to review the LSRA",
+      "detail": "Continue reviewing LSRAs, verifying atmospheric conditions before work begins, and maintaining clear communication throughout the job to ensure hazards are identified and",
+      "psms": "Atmospheric Monitoring",
+      "level": "duck"
+    },
+    {
+      "type": "good",
+      "headline": "Raymundo Solis / Gael \"Antonio\" Avila 1099 — Discussion of exclusion zones around the crane and when the crane is in ope",
+      "detail": "Check for any potential hazards outside the working zone.",
+      "psms": "Mobile Equipment",
+      "level": null
+    },
+    {
+      "type": "good",
+      "headline": "Hayden Haugh 1099 / Tyrell Sanders — Verify conditions, brief all personnel, and leave the location better than you f",
+      "detail": "OWL form — Operational Discipline",
+      "psms": "Operational Discipline",
+      "level": null
+    },
+    {
+      "type": "flag",
+      "week": 18,
+      "headline": "Clean board — no open watch items this week",
+      "detail": "Nothing carried in from last week. See a hazard? Flag it on your OWL form and it lands here the same evening.",
+      "psms": "OWL Program"
+    }
+  ],
+  "todaysChallenge": "No shortcuts on the pre-job today. The meeting, the walk-down, the gas test — the work comes first, every time, and that's why we go home.",
+  "todaysChallengeSubtext": "“The only place success comes before work is in the dictionary.” — Vince Lombardi",
+  "compliance": {
+    "weekOf": "Week of October 5, 2026",
+    "metrics": [
+      {
+        "label": "Daily H2S Forms (D/N)",
+        "done": 163,
+        "total": 172
+      },
+      {
+        "label": "Trailer Inspections",
+        "done": 39,
+        "total": 40
+      },
+      {
+        "label": "Trailer Readiness Forms",
+        "done": 30,
+        "total": 37
+      }
+    ],
+    "footerNote": "Live from Daily Internal Compliance — Mon through Thu 10/08"
+  }
+}
